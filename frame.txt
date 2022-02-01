@@ -1,0 +1,15 @@
+<html>
+
+<!-- สร้าง frame แถวขึ้นมา -->
+<frameset rows="50%,50%">
+<frame src="https://shoppo-file.sgp1.digitaloceanspaces.com/hellomyweb-production/course-asset/html_content/frame_a.html">
+
+      <frameset cols="25%,75%">
+      <frame src="https://shoppo-file.sgp1.digitaloceanspaces.com/hellomyweb-production/course-asset/html_content/frame_b.html">
+      <frame src="https://shoppo-file.sgp1.digitaloceanspaces.com/hellomyweb-production/course-asset/html_content/frame_c.html">
+      </frameset>
+
+</frameset>
+<!-- tag ปิดของ frame แถว -->
+
+</html>
